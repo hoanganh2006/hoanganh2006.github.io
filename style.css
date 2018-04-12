@@ -1,0 +1,16 @@
+body {
+    background-color: #efeee7;
+    font: "Georgia";
+    color: #333333;
+    margin: 0; 
+}
+header {
+    font: "Times New Roman";
+    background-color: #333333; 
+}
+h1 { 
+    font: "Times"; 
+    color: #eee;
+    font-size: 28px;
+    margin: 0.5; 
+}
